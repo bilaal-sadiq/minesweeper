@@ -8,7 +8,7 @@ const playAgainButton = document.querySelector('.play-again');
 
 // Initialise the variables needed for the game setup
 const totalCells = 100;
-const totalBombs = 6;
+const totalBombs = 10;
 const maxScore = totalCells - totalBombs;
 const bombsList = [];
 
